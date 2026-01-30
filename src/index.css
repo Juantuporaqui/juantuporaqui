@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme {
+  /* Tipografía */
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+  /* Paleta Slate Oscura (OKLCH) - La base del modo War Room */
+  --color-slate-200: oklch(92.9% .013 255.508);
+  --color-slate-300: oklch(86.9% .022 252.894);
+  --color-slate-400: oklch(70.4% .04 256.788);
+  --color-slate-500: oklch(55.4% .046 257.417);
+  --color-slate-600: oklch(44.6% .043 257.281);
+  --color-slate-700: oklch(37.2% .044 257.287);
+  --color-slate-800: oklch(27.9% .041 260.031);
+  --color-slate-900: oklch(20.8% .042 265.755);
+  --color-slate-950: oklch(15.4% .035 264.8);
+
+  /* Variables Semánticas que usa la app */
+  --color-fondo: var(--color-slate-950);
+  --color-text-main: #e2e8f0;
+  --color-border: var(--color-slate-800);
+
+  /* Animaciones */
+  --animate-fade-in: fadeIn 0.5s ease-out forwards;
+
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+}
+
+/* Estilos base globales */
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--color-fondo);
+  color: var(--color-text-main);
+  font-family: var(--font-sans);
+  margin: 0;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

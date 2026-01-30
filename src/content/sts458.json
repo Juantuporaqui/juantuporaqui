@@ -1,0 +1,538 @@
+{
+  "meta": {
+    "id": "sts-458-2025",
+    "title": "STS 458/2025 (ROJ STS 1292/2025) — Informe estratégico y defensa",
+    "subtitle": "Versión web (navegable y buscable) a partir del DOCX interno",
+    "sourceDoc": "Informe_STS458_2025_Defensa_Juan_Picassent.docx",
+    "generatedAt": "2026-01-30T11:39:37",
+    "disclaimer": "Documento de trabajo interno. No constituye asesoramiento jurídico."
+  },
+  "sections": [
+    {
+      "id": "sec-0-intro",
+      "num": "0",
+      "title": "Introducción",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "INFORME ESTRATÉGICO\nSTS 458/2025 (ROJ STS 1292/2025) y defensa del demandado (Juan) en el procedimiento de Picassent"
+        },
+        {
+          "type": "p",
+          "text": "Documento de trabajo interno. Objetivo: entender con precisión qué resuelve la STS 458/2025, qué NO resuelve, y cómo blindar tu defensa cuando la actora intente usarla como palanca. Incluye: resumen técnico de la STS, particularidades del caso del TS, desemejanzas con tu asunto, argumentos de defensa, guiones para sala, y checklist de pruebas/tareas."
+        }
+      ]
+    },
+    {
+      "id": "sec-0-datos-de-entrada-tu-caso-fijad",
+      "num": "0",
+      "title": "Datos de entrada (tu caso) – fijados por ti",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Ruptura/fin convivencia: agosto 2022 (separación de hecho definitiva)."
+        },
+        {
+          "type": "bullet",
+          "text": "Desde agosto 2022 hasta octubre 2023: pagos al 50% (mitad cada uno)."
+        },
+        {
+          "type": "bullet",
+          "text": "Desde octubre 2023: la actora deja de pagar; tú vas cubriendo lo que puedes."
+        },
+        {
+          "type": "bullet",
+          "text": "Situación actual: se adeuda aproximadamente 1 año de cuotas al banco (límite antes de ejecución/embargo)."
+        },
+        {
+          "type": "bullet",
+          "text": "Préstamo/hipoteca: subrogación 18/06/2009 (Barclays→CaixaBank) de un préstamo inicial 22/08/2006 (Kutxa) destinado a compra de parcelas + construcción de chalet (Montroy/Godelleta). Tu vivienda privativa funciona como garantía hipotecaria, no como destino financiado."
+        }
+      ]
+    },
+    {
+      "id": "sec-1-qué-es-exactamente-la-sts-4582",
+      "num": "1",
+      "title": "Qué es exactamente la STS 458/2025 (ROJ STS 1292/2025)",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Órgano: Tribunal Supremo, Sala 1ª (Civil)."
+        },
+        {
+          "type": "bullet",
+          "text": "Fecha: 24/03/2025."
+        },
+        {
+          "type": "bullet",
+          "text": "Procedimiento: recurso de casación en liquidación de régimen de separación de bienes (formación de inventario)."
+        },
+        {
+          "type": "bullet",
+          "text": "Tema nuclear: dies a quo (inicio) de la prescripción de la acción de reembolso/repetición por cuotas hipotecarias pagadas «de más» por un cónyuge."
+        }
+      ]
+    },
+    {
+      "id": "sec-1-1-hechos-probados-relevantes-en-",
+      "num": "1.1",
+      "title": "Hechos probados relevantes en la STS",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "En el caso del TS, ambos cónyuges compran una vivienda al 50% (mitades indivisas) y suscriben un préstamo hipotecario para financiarla. En la liquidación del régimen (separación de bienes), la actora reclama un crédito por haber pagado cuotas hipotecarias que correspondían al demandado."
+        },
+        {
+          "type": "bullet",
+          "text": "En casación queda limitada la controversia a prescripción: el TS inadmite el motivo relativo a valoración de prueba (pago exclusivo) y solo entra en el dies a quo."
+        },
+        {
+          "type": "bullet",
+          "text": "El demandado defendía que la prescripción debía computarse desde cada pago; la actora y la AP sostienen que desde la ruptura/disolución."
+        }
+      ]
+    },
+    {
+      "id": "sec-1-2-qué-se-pidió-y-qué-resolvieron",
+      "num": "1.2",
+      "title": "Qué se pidió y qué resolvieron las instancias",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "1ª instancia: reconoce un crédito muy inferior (≈ 3.696,65 €) por cuotas e IBI."
+        },
+        {
+          "type": "bullet",
+          "text": "2ª instancia (AP Valencia Sección 10ª): revoca y fija crédito ≈ 22.797,56 €."
+        },
+        {
+          "type": "bullet",
+          "text": "Casación (TS): desestima el recurso y confirma a la AP; impone costas del recurso al recurrente."
+        }
+      ]
+    },
+    {
+      "id": "sec-1-3-doctrina-clave-dies-a-quo-de-l",
+      "num": "1.3",
+      "title": "Doctrina clave: dies a quo de la prescripción en reembolso entre cónyuges",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "La STS establece que, en reclamaciones de reembolso entre cónyuges/convivientes por pagos de cuotas hipotecarias, no es razonable exigir reclamación o interrupción de prescripción durante la convivencia. Por ello, el inicio del plazo (5 años del art. 1964.2 CC) se computa desde la disolución del matrimonio o desde la separación de hecho definitiva, no desde cada pago mensual."
+        },
+        {
+          "type": "bullet",
+          "text": "En convivencia: marco de ayuda mutua/gestión conjunta; no se espera litigación interna mensual."
+        },
+        {
+          "type": "bullet",
+          "text": "Ruptura definitiva: momento en que el crédito ‘se hace exigible con sentido’; ahí arranca el plazo."
+        }
+      ]
+    },
+    {
+      "id": "sec-1-4-qué-no-decide-la-sts-y-esto-es",
+      "num": "1.4",
+      "title": "Qué NO decide la STS (y esto es donde tú te defiendes)",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "NO crea la regla ‘cuenta nómina = pago privativo’."
+        },
+        {
+          "type": "bullet",
+          "text": "NO exime a quien reclama de probar: pago efectivo, cuantía exacta, exceso respecto de la contribución del otro y ausencia de pacto/compensación."
+        },
+        {
+          "type": "bullet",
+          "text": "NO convierte un préstamo común en ‘hipoteca de vivienda privativa’ por el hecho de que un bien privativo sea garantía."
+        }
+      ]
+    },
+    {
+      "id": "sec-2-particularidades-del-caso-ts-p",
+      "num": "2",
+      "title": "Particularidades del caso TS (por qué allí funcionó y cómo evitar extrapolación automática)",
+      "blocks": []
+    },
+    {
+      "id": "sec-2-1-la-casación-del-ts-entra-solo-",
+      "num": "2.1",
+      "title": "La casación del TS entra solo en prescripción",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "El TS no reabre hechos: inadmite el motivo de valoración de prueba sobre pago exclusivo."
+        },
+        {
+          "type": "bullet",
+          "text": "Así, la STS 458/2025 es una sentencia de ‘marco temporal’ (dies a quo), no una sentencia que te obligue a aceptar el relato contable de la actora en tu pleito."
+        }
+      ]
+    },
+    {
+      "id": "sec-2-2-el-patrón-real-prescripción-vs",
+      "num": "2.2",
+      "title": "El patrón real: prescripción vs. prueba del exceso",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Estos pleitos se ganan o se pierden por dos llaves: (a) prescripción; (b) prueba del pago exclusivo/en exceso y del origen de fondos. La STS 458/2025 refuerza (a) para el reclamante, pero no regala (b)."
+        }
+      ]
+    },
+    {
+      "id": "sec-3-tu-caso-vs-sts-4582025-desemej",
+      "num": "3",
+      "title": "Tu caso vs STS 458/2025: desemejanzas ‘aprovechables’",
+      "blocks": []
+    },
+    {
+      "id": "sec-3-1-encuadre-discutible-en-tu-dema",
+      "num": "3.1",
+      "title": "Encuadre discutible en tu demanda: ‘hipoteca de tu casa privativa’",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "En tu procedimiento, la actora califica el préstamo como «préstamo hipotecario de la vivienda privativa del demandado» y sostiene que 2009–2018 la cuenta 0906 se nutrió «únicamente» de su nómina, por lo que pagó íntegramente las cuotas."
+        },
+        {
+          "type": "bullet",
+          "text": "Tu posición: el préstamo 2009 es subrogación del 2006 para comprar parcelas y construir el chalet (bienes comunes). Tu vivienda privativa es garantía aportada por ti."
+        },
+        {
+          "type": "bullet",
+          "text": "Esto reubica el caso: no es ‘ella pagando tu casa’; es una obligación solidaria financiando bienes comunes cuya adjudicación al 50% pretende."
+        }
+      ]
+    },
+    {
+      "id": "sec-3-2-sistema-económico-doméstico-de",
+      "num": "3.2",
+      "title": "Sistema económico doméstico de ‘dos cuentas conjuntas’ (tu antídoto probatorio)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Tú describes un sistema de dos cuentas conjuntas: BBVA para gastos ordinarios (con tu nómina) y Barclays/Caixa para cuotas hipotecarias (con su nómina), con ingresos/transferencias/ventanilla de distintos orígenes. Esto invalida atribuir el pago por el mero hecho de entrar su nómina."
+        },
+        {
+          "type": "bullet",
+          "text": "Prueba dura: recibos del banco receptor de transferencias donde constas como ordenante."
+        },
+        {
+          "type": "bullet",
+          "text": "Plan de reconstrucción: trazabilidad por cronología e importes desde la cuenta origen (aunque hoy no esté accesible en app)."
+        }
+      ]
+    },
+    {
+      "id": "sec-3-3-hecho-post-ruptura-que-te-favo",
+      "num": "3.3",
+      "title": "Hecho post-ruptura que te favorece: 50/50 hasta 10/2023 y luego impago de ella",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Refuerza credibilidad: si aceptó 50/50 hasta 10/2023, su relato de unilateralidad histórica es menos verosímil."
+        },
+        {
+          "type": "bullet",
+          "text": "Refuerza mala fe actual: desde 10/2023 ella rompe equilibrio y te expone a ejecución con tu vivienda como garantía."
+        }
+      ]
+    },
+    {
+      "id": "sec-4-cómo-te-intentarán-usar-la-sts",
+      "num": "4",
+      "title": "Cómo te intentarán usar la STS 458/2025 (y cómo neutralizarlo)",
+      "blocks": []
+    },
+    {
+      "id": "sec-4-1-movimiento-típico",
+      "num": "4.1",
+      "title": "Movimiento típico",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Usar 458/2025 para salvar 2009–2018: ‘no prescribe hasta ruptura’."
+        },
+        {
+          "type": "bullet",
+          "text": "Venderla como si el TS dijera ‘cuenta nómina = pago privativo’."
+        },
+        {
+          "type": "bullet",
+          "text": "Insistir en ‘hipoteca de tu casa’ para sesgo del juzgador."
+        }
+      ]
+    },
+    {
+      "id": "sec-4-2-respuesta-corta-para-sala-vers",
+      "num": "4.2",
+      "title": "Respuesta corta para sala – versión ‘martillo’",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "“Señoría: la STS 458/2025 solo fija el dies a quo de la prescripción; no acredita que la actora pagara en exceso con fondos privativos. Aquí hay dos cuentas conjuntas, aportaciones cruzadas y transferencias del demandado acreditadas por recibos de la entidad receptora. Además, el préstamo es solidario y destinado a bienes comunes; mi vivienda privativa es solo garantía. No cabe construir un crédito unilateral por el mero canal bancario.”"
+        }
+      ]
+    },
+    {
+      "id": "sec-4-3-defensa-por-bloques-operativa",
+      "num": "4.3",
+      "title": "Defensa por bloques (operativa)",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Bloque A – Marco del préstamo: demostrar que NO es ‘hipoteca de mi casa’, sino préstamo solidario para bienes comunes; mi vivienda es garantía aportada por mí."
+        },
+        {
+          "type": "bullet",
+          "text": "Bloque B – Origen de fondos: destruir ‘solo nómina’; probar ingresos/transferencias del demandado a 0906 y existencia de doble cuenta conjunta."
+        },
+        {
+          "type": "bullet",
+          "text": "Bloque C – Cuantificación: exigir trazabilidad completa, detectar errores y excluir partidas no probadas o basadas en capturas parciales."
+        },
+        {
+          "type": "bullet",
+          "text": "Bloque D – Hechos post-ruptura: acreditar 50/50 hasta 10/2023, impago posterior y riesgo de ejecución; plantear créditos cruzados/compensaciones."
+        }
+      ]
+    },
+    {
+      "id": "sec-5-argumentos-de-defensa-con-crit",
+      "num": "5",
+      "title": "Argumentos de defensa ‘con criterio aplastante’ (lista operativa)",
+      "blocks": []
+    },
+    {
+      "id": "sec-5-1-error-de-premisa-destino-del-p",
+      "num": "5.1",
+      "title": "Error de premisa: destino del préstamo y solidaridad",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "El préstamo financia parcelas + obra/chalet; tu vivienda es garantía, no destino. Esto desmonta ‘pagaba tu casa’."
+        },
+        {
+          "type": "bullet",
+          "text": "Incoherencia relevante: tu contestación afirma que la actora reconoció ante AEAT el destino del préstamo (si aportas el documento, mejor)."
+        },
+        {
+          "type": "bullet",
+          "text": "Si pretende 50% de los bienes financiados, no puede presentarse como única financiadora sin prueba exhaustiva."
+        }
+      ]
+    },
+    {
+      "id": "sec-5-2-prueba-dura-recibos-del-banco-",
+      "num": "5.2",
+      "title": "Prueba dura: recibos del banco receptor (ordenante Juan)",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Aportar justificantes del banco receptor con: ordenante, IBAN origen, fecha, importe, concepto."
+        },
+        {
+          "type": "bullet",
+          "text": "Con pocos recibos sólidos ya cae el absolutismo ‘únicamente nómina’ y se fuerza el análisis real (aportes cruzados)."
+        }
+      ]
+    },
+    {
+      "id": "sec-5-3-reconstrucción-por-cronologíai",
+      "num": "5.3",
+      "title": "Reconstrucción por cronología/importe",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Matriz de trabajo: cargos hipoteca + abonos relevantes en 0906 + transferencias identificables."
+        },
+        {
+          "type": "bullet",
+          "text": "Etiquetado de certeza: ALTA/MEDIA/BAJA."
+        },
+        {
+          "type": "bullet",
+          "text": "Objetivo mínimo: demostrar pluralidad de aportaciones y contribución relevante del demandado."
+        }
+      ]
+    },
+    {
+      "id": "sec-5-4-sistema-de-doble-cuenta-contri",
+      "num": "5.4",
+      "title": "Sistema de doble cuenta = contribución global, no ‘cuenta pagadora’",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Si tú cubrías gasto ordinario desde BBVA (alimentación, suministros, etc.), no es técnicamente correcto aislar hipoteca para afirmar ‘exceso’ sin excluir compensación por otros gastos."
+        },
+        {
+          "type": "bullet",
+          "text": "Tu tesis no es ‘contabilidad de tickets’; es destruir la premisa de unilateralidad y exigir prueba completa para hablar de exceso."
+        }
+      ]
+    },
+    {
+      "id": "sec-5-5-post-ruptura-coherencia-5050-e",
+      "num": "5.5",
+      "title": "Post-ruptura: coherencia 50/50 e impago posterior",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "08/2022–10/2023 al 50% = prueba conductual de reparto aceptado."
+        },
+        {
+          "type": "bullet",
+          "text": "Impago desde 10/2023 = mala fe + crédito cruzado a tu favor + riesgo real para tu vivienda."
+        }
+      ]
+    },
+    {
+      "id": "sec-6-plan-de-actuación-deberes-chec",
+      "num": "6",
+      "title": "Plan de actuación (deberes) – checklist priorizado",
+      "blocks": []
+    },
+    {
+      "id": "sec-6-1-prioridad-0-romper-solo-nómina",
+      "num": "6.1",
+      "title": "Prioridad 0 – romper ‘solo nómina’",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Reunir TODOS los recibos/justificantes donde constes como ordenante (entidad receptora)."
+        },
+        {
+          "type": "bullet",
+          "text": "Ordenar por año, numerar, y volcar a tabla: fecha, importe, origen, destino, concepto."
+        },
+        {
+          "type": "bullet",
+          "text": "Anexarlos como bloque probatorio: ‘ORDENANTE JUAN’."
+        }
+      ]
+    },
+    {
+      "id": "sec-6-2-prioridad-1-reconstrucción-200",
+      "num": "6.2",
+      "title": "Prioridad 1 – reconstrucción 2009–2018",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Listar cuotas mensuales hipotecarias 2009–2018 (fecha e importe)."
+        },
+        {
+          "type": "bullet",
+          "text": "Listar abonos no nómina en 0906 (transferencias, ingresos, ventanilla)."
+        },
+        {
+          "type": "bullet",
+          "text": "Hacer matches fecha±2 días + importe exacto con documentación antigua que puedas recuperar."
+        },
+        {
+          "type": "bullet",
+          "text": "Etiquetar certeza y preparar un ‘Cuadro Resumen’ para el juez."
+        }
+      ]
+    },
+    {
+      "id": "sec-6-3-prioridad-2-destino-del-présta",
+      "num": "6.3",
+      "title": "Prioridad 2 – destino del préstamo",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Aportar escritura 2006 (Kutxa 310.000) y subrogación 2009 (Barclays 296.154,62)."
+        },
+        {
+          "type": "bullet",
+          "text": "Aportar documentación de compra parcelas/obra y notas simples."
+        },
+        {
+          "type": "bullet",
+          "text": "Aportar documento AEAT donde conste el destino del préstamo (si está en tu documentación)."
+        }
+      ]
+    },
+    {
+      "id": "sec-6-4-prioridad-3-tramo-082022hoy",
+      "num": "6.4",
+      "title": "Prioridad 3 – tramo 08/2022–hoy",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "Cuadro pagos 08/2022–10/2023 (50/50)."
+        },
+        {
+          "type": "bullet",
+          "text": "Cuadro impagos desde 10/2023, saldo deudor, y evidencia de mora/riesgo."
+        },
+        {
+          "type": "bullet",
+          "text": "Si puedes: certificado bancario de deuda y situación de impago."
+        }
+      ]
+    },
+    {
+      "id": "sec-7-guiones-listos-para-usar-audie",
+      "num": "7",
+      "title": "Guiones listos para usar (Audiencia Previa / vista)",
+      "blocks": []
+    },
+    {
+      "id": "sec-7-1-guion-de-60-segundos-tesis",
+      "num": "7.1",
+      "title": "Guion de 60 segundos (tesis)",
+      "blocks": []
+    },
+    {
+      "id": "sec-1-la-sts-4582025-regula-solo-el-",
+      "num": "1",
+      "title": "La STS 458/2025 regula solo el dies a quo; 2) aquí lo decisivo es la prueba del supuesto ‘pago en exceso’; 3) el préstamo es solidario y su destino son bienes comunes; 4) la cuenta 0906 no se nutrió únicamente de la nómina de la actora; 5) existen transferencias del demandado acreditadas por recibos de la entidad receptora y un sistema de doble cuenta; 6) tras la ruptura, reparto 50/50 hasta 10/2023 e impago posterior de ella.",
+      "blocks": []
+    },
+    {
+      "id": "sec-7-2-preguntas-clave-de-contrainter",
+      "num": "7.2",
+      "title": "Preguntas clave de contrainterrogatorio",
+      "blocks": [
+        {
+          "type": "bullet",
+          "text": "¿Reconoce que la cuenta 0906 era de titularidad conjunta?"
+        },
+        {
+          "type": "bullet",
+          "text": "¿Reconoce que existía una cuenta conjunta BBVA donde se ingresaba la nómina del demandado?"
+        },
+        {
+          "type": "bullet",
+          "text": "¿Por qué afirma ‘únicamente nómina’ si existen ingresos/transferencias/ventanilla?"
+        },
+        {
+          "type": "bullet",
+          "text": "¿Reconoce que 08/2022–10/2023 se pagó al 50%?"
+        },
+        {
+          "type": "bullet",
+          "text": "¿Reconoce que desde 10/2023 dejó de pagar su parte?"
+        },
+        {
+          "type": "bullet",
+          "text": "¿Reconoce que el préstamo 2009 es subrogación del 2006 destinado a parcelas/obra?"
+        }
+      ]
+    },
+    {
+      "id": "sec-8-conclusión-estratégica",
+      "num": "8",
+      "title": "Conclusión estratégica",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "La STS 458/2025 te perjudica solo si el pleito se queda en prescripción «pago a pago». Tu defensa ganadora es factual: destruir ‘solo nómina’, reubicar el préstamo como obligación solidaria para bienes comunes, y exigir trazabilidad real. Con receptoras como ordenante + reconstrucción por cronología/importe, puedes neutralizar el uso abusivo de la STS y reducir/derribar el crédito pretendido."
+        }
+      ]
+    }
+  ]
+}
